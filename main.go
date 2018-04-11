@@ -5,5 +5,4 @@ import (
 
 func main() {
 	fmt.Println("Hello Rine");
-	fmt.Println("Hello Jan Willem");
 }
